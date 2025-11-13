@@ -244,7 +244,7 @@ export default function Home() {
               name: "Sara Colorado",
               role: "Master Nail Technician",
               description: "With over 8 years of experience in the nail industry, Sara specializes in advanced nail art techniques, gel applications, and luxury spa treatments. Licensed and certified in the latest nail care innovations.",
-              imageSrc: "https://pixabay.com/get/g521051be0b34fd8945b0f7241cdb8c6d2cd2e9e9302c00429cb8816cc497a14ba7094709931a420c77b558ecdb5df2675275098522cc6b02d13c24eb3a002e7f_1280.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1762998034553-3010yi13.png",
               imageAlt: "Sara Colorado professional portrait",
               socialLinks: [
                 {
