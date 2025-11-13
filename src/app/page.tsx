@@ -131,14 +131,14 @@ export default function Home() {
               id: "03",
               title: "Nail Art Design",
               description: "Custom nail art creations from simple accents to intricate designs that express your unique style",
-              imageSrc: "https://pixabay.com/get/g5e26c85d41b87d472b324fe29d93220725c3f8e26b4cfbbb78f1a56c7715a2cd6b266ce1dda112d21496ab1ce950657e977598e40dad8dc24f34cbd1976e4f50_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gd8711625c74d48b9c9b425ffce5a9cedf2a91a2a3fc33bc836d3046cf9d5018c830a214670847f9875f8fafbc7a9a39105131876cdba771344540155d2b13ff1_1280.jpg",
               imageAlt: "Custom nail art designs"
             },
             {
               id: "04",
               title: "Gel Manicure",
               description: "Long-lasting gel polish application that provides chip-free shine for up to 3 weeks",
-              imageSrc: "https://pixabay.com/get/g100996e8bc7045647f97b29c471e9c706405a3ebbf44d492afa307354519273849bd6463778e87ae4fb28305d19ed13ace10a77a6b6aaeddef24ae6ee42cd900_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gee6be38d7c026254932f31e576a89d162604da9ee9cef7a1efd158c3d84728923dbe7dfd5909f1eea1f19db4c99bcf0f3818ff21b1b9946fff0493cc0d0247dc_1280.jpg",
               imageAlt: "Gel manicure application"
             }
           ]}
