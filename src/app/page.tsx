@@ -59,15 +59,15 @@ export default function Home() {
               imageAlt: "Modern nail salon interior"
             },
             {
-              imageSrc: "https://pixabay.com/get/gc923fc5442f67bd86eb8bbc80d8acc98ab926e2dcf34f7f5233e6715316e92f28b6f353e99b72c086292921931701bae9ab2d22e41e1b4b734aab89f4fab97a9_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g26fdd156c91cbac7c8e07b224075e6b285da2d2c397c3f42968f6e7c4bdc41f60ac51848d42d2533a9fb47f5f054a6e0bce0488911777be2f32d32c681e87d1b_1280.jpg",
               imageAlt: "Professional manicure service"
             },
             {
-              imageSrc: "https://pixabay.com/get/g5e26c85d41b87d472b324fe29d93220725c3f8e26b4cfbbb78f1a56c7715a2cd6b266ce1dda112d21496ab1ce950657e977598e40dad8dc24f34cbd1976e4f50_1280.jpg",
+              imageSrc: "https://pixabay.com/get/g64d3bace78b4d232f66fda57a976baf1d399550a5682e017fcf08cfa611f3455cf432ae5736aaa3a4d9f2e37143b925d892fe5abcf0a13c18fc200725d74c129_1280.jpg",
               imageAlt: "Creative nail art designs"
             },
             {
-              imageSrc: "https://pixabay.com/get/g100996e8bc7045647f97b29c471e9c706405a3ebbf44d492afa307354519273849bd6463778e87ae4fb28305d19ed13ace10a77a6b6aaeddef24ae6ee42cd900_1280.jpg",
+              imageSrc: "https://pixabay.com/get/gcf43fabc65e057a3c404a195609fe2d1ddd9ad55cca5caeba1ed371dd5af79430178fe1b7d0e0867611789486ca82e3e22b4b688397b5420aba27ef7339d4df8_1280.jpg",
               imageAlt: "Gel nail application"
             }
           ]}
