@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -11,7 +11,7 @@ import TestimonialCardTwo from '@/components/sections/testimonial/TestimonialCar
 import FaqSplitText from '@/components/sections/faq/FaqSplitText';
 import ContactSplit from '@/components/sections/contact/ContactSplit';
 import FooterBase from '@/components/sections/footer/FooterBase';
-import { Award, Calendar, Crown, DollarSign, Heart, MessageCircle, Palette, Shield, Sparkles, Star, User } from "lucide-react";
+import { Award, Calendar, Crown, DollarSign, Facebook, Heart, Instagram, MessageCircle, Palette, Shield, Sparkles, Star, User } from "lucide-react";
 
 export default function Home() {
   return (
@@ -248,11 +248,11 @@ export default function Home() {
               imageAlt: "Sara Colorado professional portrait",
               socialLinks: [
                 {
-                  icon: "Instagram",
+                  icon: Instagram,
                   url: "https://instagram.com/saracoloradonails"
                 },
                 {
-                  icon: "Facebook",
+                  icon: Facebook,
                   url: "https://facebook.com/saracoloradonails"
                 }
               ]
